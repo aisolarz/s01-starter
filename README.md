@@ -1,7 +1,7 @@
 # CMPM 121 Section Activity starter
 
-October 7 Section Assignment - Aimee
-Looks like everything is working smoothly! - Charlotte Boren
+AIMEE WAS HERE OCTOBER 7 IN SECTIONNNN
+Looks like everything is working smoothly again! - Charlotte Boren
 CMPM 121 Section 02 - Sharon Alcocer
 Julian Tran
 Aimee Solarz README.md:
