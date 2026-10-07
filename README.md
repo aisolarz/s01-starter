@@ -1,5 +1,9 @@
 # CMPM 121 Section Activity starter
 
+October 7 Section Assignment - Aimee
+Looks like everything is working smoothly! - Charlotte Boren
+CMPM 121 Section 02 - Sharon Alcocer
+Julian Tran
 Aimee Solarz README.md:
 What I first did was add 1 to counter and look in the console to see if it was adding correctly. But I noticed that it wasnt changing the text on the screen only the value in the console. So then I added textContent which just holds plain text inside the element.
 
